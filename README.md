@@ -23,6 +23,8 @@ Puedes emtrar a ver el de,p en este vínculo https://tangerine-paletas-978b1b.ne
 
 La idea es inspirarte con esta demostración de proyecto
 
+¡Quizá no te quede idéntico o quizá te quede mucho mejor que este demo🤩, utiliza tu destreza y aprendizaje para que demuestres que tu futuro es ser un(a) programador(a) web.👩🏻💻👦🏻
+
 ## 3. ¿Qué construirás?
 
 ## 4. Objetivos de aprendiaje
